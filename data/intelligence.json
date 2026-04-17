@@ -1,0 +1,24 @@
+{
+  "highReputation": [
+    "google.com",
+    "apple.com",
+    "microsoft.com",
+    "spotify.com",
+    "amazon.com",
+    "netflix.com",
+    "paypal.com",
+    "stripe.com",
+    "github.com",
+    "linkedin.com"
+  ],
+  "commonScamKeywords": [
+    "urgent action required",
+    "account suspended",
+    "unusual activity",
+    "gift card",
+    "verify your identity",
+    "lottery winner",
+    "inheritance",
+    "bitcoin payment"
+  ]
+}

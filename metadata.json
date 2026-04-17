@@ -1,0 +1,6 @@
+{
+  "name": "TrustHub",
+  "description": "A privacy-first cybersecurity dashboard for verifying suspicious digital content using local pre-filtering and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
